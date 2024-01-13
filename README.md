@@ -1,2 +1,2 @@
 # go_fast
-The fasted guide to learn golang
+A fast guide to learn golang
